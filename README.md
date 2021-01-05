@@ -40,3 +40,5 @@ The most important thing to consider when purchasing an automobile that is conta
 November
 2020,<https://medium.com/@sriramselvank/let-us-do-data-analysis-w
 ith-python-db2cb6eca43f>
+
+[link to Automobile report](https://github.com/LehlohonoloSebaetse/Automobile-dataset/blob/main/EDA.docx%20(1).pdf)
