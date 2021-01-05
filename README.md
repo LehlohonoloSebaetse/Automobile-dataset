@@ -10,7 +10,20 @@
 
 * The data visualization and analysis was performed using seaborn and Matplotlib
 
-## 
+## Summary of Visualizations
+
+![download (7)](https://user-images.githubusercontent.com/73367744/103659212-d39cc780-4f74-11eb-8767-09fb90e08a7b.png)
+
+![download (8)](https://user-images.githubusercontent.com/73367744/103659450-12328200-4f75-11eb-86a8-5d5357c6f4ac.png)
+
+![download (9)](https://user-images.githubusercontent.com/73367744/103659514-28404280-4f75-11eb-9821-a69f98e7f59a.png)
+
+![download (10)](https://user-images.githubusercontent.com/73367744/103659544-35f5c800-4f75-11eb-9fae-63bafa5a7e5f.png)
+
+![download (11)](https://user-images.githubusercontent.com/73367744/103659604-46a63e00-4f75-11eb-8e32-9da0d2928ffa.png)
+
+![download (12)](https://user-images.githubusercontent.com/73367744/103659695-6178b280-4f75-11eb-99bd-15a15f880aff.png)
+
 
 
 
